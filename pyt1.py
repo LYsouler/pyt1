@@ -19,12 +19,12 @@ print("%s %d" %(c,a))
 name = "fjdkl"
 qqNum = 32232
 phone = 12222222
-address = "东北电力大学"
+address = "东北大学"
 print("=============================================")
 print("姓名： %s" %name)
 print("QQ: %s" %qqNum)
 print("手机号：%s" %phone)
-print("公司地址：吉林市 %s" %address)
+print("公司地址：市 %s" %address)
 
 #两种赋值方式
 num1 = 1
